@@ -16,9 +16,9 @@ O objetivo do Tecladin é proporcionar uma interface simples e intuitiva, permit
 O Tecladin foi construído com as seguintes linguagens:
 
 <div>
-    <img src="https://logospng.org/download/html-5/logo-html-5-256.png">
-    <img src="https://logospng.org/download/css-3/logo-css-3-256.png">
-    <img src="https://logospng.org/download/javascript/logo-javascript-icon-256.png">
+    <img src="https://logospng.org/download/html-5/logo-html-5-256.png" width="128" height="128">
+    <img src="https://logospng.org/download/css-3/logo-css-3-256.png" width="128" height="128">
+    <img src="https://logospng.org/download/javascript/logo-javascript-icon-256.png" width="128" height="128">
 </div>
 
 ## 📚 Funcionalidades
